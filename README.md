@@ -1,4 +1,5 @@
-# Intro
+
+# Brainstorming
 
 ---------------------------------------------------------------------------------------------
 
@@ -44,4 +45,5 @@ Nous comptons sur BTC et IOP pour vendre nos futur produits.
 Merci pour votre soutien, nôtre adresse BTC; 13rjRza9hUMq3ZFioJq3HJeTjm1W4q4vdZ.
 Cela permettra l'acquisition d'équipements professionnels pour fournir la meilleure électronique personnalisée aux personnes.
 
+---------------------------------------------------------------------------------------------
 
